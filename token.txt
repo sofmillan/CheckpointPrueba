@@ -1,7 +1,15 @@
 este es el token de sofia
 esta es la prueba de romi
+<<<<<<< HEAD
+este es el token de Alvaro
+=======
 este es el token de Denis
 
 Token Diana: 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
 Token Romi: skjdncksjndckjsdnckjsdncksjndcjksndckjsndc
 token denis: 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
+<<<<<<< HEAD
+>>>>>>> dc37172d3b9cbad78d100d6cf6bd3758bada709f
+=======
+Token Sofia: sajkhdjakdjkjksajdsakj
+>>>>>>> 910d7c4f0ed738f3de00531269cf6f21de3349a5
